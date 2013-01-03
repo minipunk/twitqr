@@ -1,2 +1,6 @@
 1º Crear una alicación en twitter https://dev.twitter.com/apps/new
 2º Descargar la biblioteca https://github.com/themattharris/tmhOAuth
+3º Configurar twitqr.php con tus parámetros
+4º Ejecutar desde cron en tu servidor cada X tiempo (Será cuando responda)
+
+EXAMPLE IN LIVE https://twitter.com/creaqr

@@ -1,4 +1,15 @@
 <?php
+/**
+   * @package twitqr
+   * @version   1.0
+   * @author    Minipunk
+   * @copyright (C) 2013 Minipunk
+   *
+   * @license        Apache License Version 2.0, see LICENSE.md
+   * 3/JAN/2012
+   *
+ */
+ 
 $file = "respondido.txt"; // Para no responder dos veces al mismo, almacena el ID del tweet
 
 // compruebo que existe el archivo txt y si no existe lo crea
